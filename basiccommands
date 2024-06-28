@@ -1,0 +1,5 @@
+git init[for intializing git in present working directory]
+
+git add -A[adding all untracked files]
+
+git commit -m "commit message"[adding staged files ]
